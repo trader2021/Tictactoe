@@ -20,7 +20,7 @@ The game board is represented by a struct called `Board`, which contains three `
 An alternative representation would be to use an array, however, these are not yet supported in Leo.
   
 ## Language Features
-- `struct` declarations
+- `struct` declarations 
 - conditional statements
 - early termination. Leo allows users to return from a function early using the `return` keyword.
 
