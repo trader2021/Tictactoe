@@ -20,7 +20,7 @@ echo "
 leo run new || exit
 
 # Have the Player 1 make a move.
-echo "
+echo " 
 ###############################################################################
 ########                                                               ########
 ########             STEP 1: Player 1 makes the 1st move.              ########
